@@ -53,5 +53,5 @@ Este programa realiza uma **pesquisa com 40 pessoas** para avaliar a opinião do
 
 📌 **Como executar os programas?**  
 1. Certifique-se de ter o **Java** instalado.  
-2. Clone este repositório:  
+2. Clone este repositório
 
